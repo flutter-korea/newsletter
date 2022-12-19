@@ -204,7 +204,8 @@ editor 박제창, 유병욱
 
 - ****Flutter, 어떻게 해야 더 잘 쓸까? (with, 3 years) - 유병욱****
   - 
-  발표자료: https://1drv.ms/p/s!AuTeBKSrjrZrgaR9PYqANJaY5R6Wpg?e=6zhRjb
+  발표자료: [https://1drv.ms/p/s!AuTeBKSrjrZrgaR9PYqANJaY5R6Wpg?e=6zhRjb](https://1drv.ms/p/s!AuTeBKSrjrZrgaR9PYqANJaY5R6Wpg?e=6zhRjb)
+
 ### 6-2 Flutter Seoul Orgs in Moducon
 
 ![IMG_5699.JPG](../assets/newsletter_1st/7.jpg)
