@@ -29,9 +29,9 @@ editor 홍종표
 > 장소 : Nairobi, Kenya . 온라인
 >
 
-[https://twitter.com/FlutterDev/status/1592593528390963200?s=20&t=_VOWef6iB5zDo3x4hRPvHw](https://twitter.com/FlutterDev/status/1592593528390963200?s=20&t=_VOWef6iB5zDo3x4hRPvHw)
+[플러터 공식 트위터 링크](https://twitter.com/FlutterDev/status/1592593528390963200?s=20&t=_VOWef6iB5zDo3x4hRPvHw)
 
-2023년 1월 25일 Flutter Forward 행사에 하시면, 새로운 플러터 업데이트 소식들을 알려준다고 합니다. 어떤 변화들이 있을지 궁금하다면!! 해당 트윗의 링크를 통해 참여등록하실 수 있습니다!
+**2023년 1월 25일** **Flutter Forward** 행사에 하시면, 새로운 플러터 업데이트 소식들을 알려준다고 합니다. 어떤 변화들이 있을지 궁금하다면!! 해당 트윗의 링크를 통해 참여등록하실 수 있습니다!
 
 ---
 
@@ -81,7 +81,7 @@ editor 송승현
 ![Abdallah Shaban, Muhammed Salih Güler, and Ashish Nanda in [Front-End Web & Mobile](https://aws.amazon.com/blogs/mobile/category/mobile-services/)](../assets/newsletter_1st/3.png)
 
 Abdallah Shaban, Muhammed Salih Güler, and Ashish Nanda
-in[Front-End Web & Mobile](https://aws.amazon.com/blogs/mobile/category/mobile-services/)
+in [Front-End Web & Mobile](https://aws.amazon.com/blogs/mobile/category/mobile-services/)
 
 Amplify는 AWS의 통합 개발환경 서비스로 AWS Cognito와 같은 인증 서비스 부터 AWS db 인스턴스 API Gateway 등 다양한 AWS 서비스를 손쉽게 통합가능한 AWS의 서비스입니다. 첫
 출시부터 Flutter를 지원하면서 Flutter 개발자들에게도 큰 관심을 끌었습니다. 다만 Web과 Desktop은 Amplify 패키지를 지원하지 않아서 많은 개발자들이 아쉬워 했습니다. 이번 Amplify
@@ -133,6 +133,7 @@ class MainActivity:FlutterFragmentActivity()
 ```
 
 > 이 주제는 많은 분들의 도움이 필요합니다! 🙇‍♂️
+> 
 > 다들 플러터 / 플러터의 패키지들을 사용하시면서 겪으신 이슈들이 있다면 맨 아래의 구글폼을 통해 제보 부탁드립니다.
 >
 
