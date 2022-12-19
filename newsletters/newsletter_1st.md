@@ -31,7 +31,8 @@ editor 홍종표
 
 [플러터 공식 트위터 링크](https://twitter.com/FlutterDev/status/1592593528390963200?s=20&t=_VOWef6iB5zDo3x4hRPvHw)
 
-**2023년 1월 25일** **Flutter Forward** 행사에 하시면, 새로운 플러터 업데이트 소식들을 알려준다고 합니다. 어떤 변화들이 있을지 궁금하다면!! 해당 트윗의 링크를 통해 참여등록하실 수 있습니다!
+**2023년 1월 25일** **Flutter Forward** 행사에 하시면, 새로운 플러터 업데이트 소식들을 알려준다고 합니다. 어떤 변화들이 있을지 궁금하다면!! 해당 트윗의 링크를 통해 참여등록하실 수
+있습니다!
 
 ---
 
@@ -129,11 +130,11 @@ Flutter Seoul에서는 자주일어나는 이슈를 수집하고 공유하여 Fl
 ```kotlin
 import io.flutter.embedding.android.FlutterFragmentActivity
 
-class MainActivity:FlutterFragmentActivity()
+class MainActivity : FlutterFragmentActivity()
 ```
 
 > 이 주제는 많은 분들의 도움이 필요합니다! 🙇‍♂️
-> 
+>
 > 다들 플러터 / 플러터의 패키지들을 사용하시면서 겪으신 이슈들이 있다면 맨 아래의 구글폼을 통해 제보 부탁드립니다.
 >
 
@@ -164,7 +165,7 @@ editor 홍종표
    [The Initial Better Ads Standards - Coalition for Better Ads](https://www.betterads.org/standards/#mobileapp)
 
 5. 로그인 사용자 인증 정보
-   1. 앱에서 로그인 화면이 있는 컨텐츠를 제공하지만 사용자 인증정보를 제공하지 않아 정책 위반으로 판단되는 경우가 많음.
+    1. 앱에서 로그인 화면이 있는 컨텐츠를 제공하지만 사용자 인증정보를 제공하지 않아 정책 위반으로 판단되는 경우가 많음.
 
 [검토를 위한 앱 준비](https://support.google.com/googleplay/android-developer/answer/9859455?hl=ko)
 
@@ -190,7 +191,7 @@ editor 박제창, 유병욱
 > MODUCON 2022
 > 행사일시 : 2022년 12월 15일
 > 주최 : 모두의 연구소
-> 참가자 : Flutter Seoul Orgs - 유병욱 ,박제창
+> 참가자 : Flutter Seoul Orgs - 박제창, 유병욱
 >
 
 [모두콘(MODUCON) - MODUCON2022](https://moducon.kr/)
@@ -198,16 +199,18 @@ editor 박제창, 유병욱
 ### 6-1 참여세션정보
 
 - ****Flutter와 함께하는 ML 세상 탐험하기 - 박제창****
-    -
-    발표자료: [https://speakerdeck.com/itsmedreamwalker/flutterwa-hamggehaneun-ml-sesang-tamheomhagi-at-moducon2022](https://speakerdeck.com/itsmedreamwalker/flutterwa-hamggehaneun-ml-sesang-tamheomhagi-at-moducon2022)
+  -
+  발표자료: [https://speakerdeck.com/itsmedreamwalker/flutterwa-hamggehaneun-ml-sesang-tamheomhagi-at-moducon2022](https://speakerdeck.com/itsmedreamwalker/flutterwa-hamggehaneun-ml-sesang-tamheomhagi-at-moducon2022)
 
 - ****Flutter, 어떻게 해야 더 잘 쓸까? (with, 3 years) - 유병욱****
   - 
-
+  발표자료: https://1drv.ms/p/s!AuTeBKSrjrZrgaR9PYqANJaY5R6Wpg?e=6zhRjb
 ### 6-2 Flutter Seoul Orgs in Moducon
 
 ![IMG_5699.JPG](../assets/newsletter_1st/7.jpg)
 ![IMG_5693.JPG](../assets/newsletter_1st/8.jpg)
+
+### 추후 세션 내용은 모두콘 유튜브를 통해 공개 예정입니다!!
 
 ---
 
