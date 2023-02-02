@@ -124,7 +124,7 @@ go_router
 
 영상 보러가기: [https://youtu.be/tEqVyJNOroI](https://youtu.be/tEqVyJNOroI)
 
-### 4. Flutter 2022 Roadmap은 과연 어떻게 되었는가?
+### 5. Flutter 2022 Roadmap은 과연 어떻게 되었는가?
 
 edit by 홍종표(HDD), CuroGom, 박제창 
 
@@ -151,7 +151,7 @@ edit by 홍종표(HDD), CuroGom, 박제창
 
 ---
 
-### 5. Android Studio ****Electric Eel****
+### 6. Android Studio ****Electric Eel****
 
 edit by 박제창
 
