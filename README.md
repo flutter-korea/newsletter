@@ -5,9 +5,11 @@
 
 ## 2022년
 
-| 발행호                                                                           | 발행일자       | 발간인              |
-|:------------------------------------------------------------------------------|:-----------|:-----------------|
-| [1호](https://github.com/flutter-korea/newsletter/blob/main/newsletters/newsletter_1st.md) | 2022.12.19 | 홍종표(HDD)         |
+| 발행호                                                                           | 발행일자       | 발간인              | 기고자                                                 |
+|:------------------------------------------------------------------------------|:-----------|:-----------------|-----------------------------------------------------
+| [1호](https://github.com/flutter-korea/newsletter/blob/main/newsletter_1st.md) | 2022.12.19 | 홍종표(HDD)         | 박제창(Dreamwalker), 유병욱(Curogom), 송승현(말코감자)           |
+| [2호](https://github.com/flutter-korea/newsletter/blob/main/newsletter_2nd.md) | 2023.02.02| 홍종표(HDD)   | 박제창(Dreamwalker), 유병욱(Curogom)                      |
+
 
 
 ## 운영방식
