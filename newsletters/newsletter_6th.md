@@ -100,11 +100,11 @@ I/O extended 행사는 구글 I/O에서 발표한 기술과 지식들 나누는 
 
 행사당일 플러터 서울 운영진 3분이 연사자로 참여해주셨습니다. 
 
-- 박제창님: [**Flutter 💙 Embedded**](https://www.notion.so/Flutter-Seoul-Newsletter-6-dc9c6c58f64c4011b44014c1bb0a9170?pvs=21)
+- 박제창님: [**Flutter 💙 Embedded**](https://speakerdeck.com/itsmedreamwalker/o-extended-2023-incheon-bagjecang)
     
     ![Untitled](../assets/newsletter_6th/gdg_songdo_jcp.png)
     
-- CuroGom님: [**Widgetbook 페이지에 Widget 스크랩하기**](https://www.notion.so/Flutter-Seoul-Newsletter-6-dc9c6c58f64c4011b44014c1bb0a9170?pvs=21)
+- CuroGom님: [**Widgetbook 페이지에 Widget 스크랩하기**](https://docs.google.com/presentation/d/1FDzzySjfDfukNiCxfxKPrTd3ldfDDsyI3dMFW0T705U/edit#slide=id.g23d304d559e_0_0)
     
     ![Untitled](../assets/newsletter_6th/gdg_songdo_curogom.png)
     
