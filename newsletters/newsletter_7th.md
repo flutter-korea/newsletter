@@ -161,6 +161,8 @@ Flutter Seoul 의 뉴스레터 구독을 원하시는 분들은 해당 레포지
 
 플러터 서울 공식 디스코드: [https://flutter-seoul.com](https://flutter-seoul.com)
 
+플러터 서울 공식 유튜브: [https://youtube.com/@flutterkorea?si=V6nmYv-vAqDFhEiC](https://youtube.com/@flutterkorea?si=V6nmYv-vAqDFhEiC)
+
 플러터 서울 공식 오픈 카카오톡: [참여하기](https://open.kakao.com/o/gdL2Gj1e)
 
 플러터 서울 공식 밋업: [https://meetup.flutter-seoul.com](https://meetup.flutter-seoul.com)
