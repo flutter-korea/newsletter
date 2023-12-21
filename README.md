@@ -14,6 +14,7 @@
 | [5호](https://github.com/flutter-korea/newsletter/blob/main/newsletters/newsletter_5th.md)                               | 2023.06.09 | 홍종표(HDD), 박제창(Dreamwalker) | -                       |
 | [6호](https://github.com/flutter-korea/newsletter/blob/main/newsletters/newsletter_6th.md)                               | 2023.09.12 | 홍종표(HDD), 박제창(Dreamwalker) | 유병욱(Curogom), 발라스, 오기환  |
 | [7호](https://github.com/flutter-korea/newsletter/blob/main/newsletters/newsletter_7th.md)                               | 2023.11.09 | 홍종표(HDD), 박제창(Dreamwalker) | 발라스                     |
+| [8호](https://github.com/flutter-korea/newsletter/blob/main/newsletters/newsletter_8th.md)                               | 2023.12.21 | 홍종표(HDD), 박제창(Dreamwalker) | 발라스                     |
 
 ## 문의하기
 
