@@ -16,7 +16,7 @@
 
 마이너 업데이트에 대한 확인은 아래 블로그 들을 참고하시면 됩니다. 
 
-👉 [**What’s new in Flutter 3.16**](https://www.notion.so/Flutter-Seoul-Newsletter-8-a49ab09f818a497aae3bd1120a3f99b0?pvs=21)
+👉 [**What’s new in Flutter 3.16**](https://medium.com/flutter/whats-new-in-flutter-3-16-dba6cb1015d1)
 
 👉 [**Announcing Dart 3.2**](https://medium.com/dartlang/dart-3-2-c8de8fe1b91f)
 
