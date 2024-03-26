@@ -8,6 +8,16 @@
   "commitConvention": "angular",
   "contributors": [
     {
+      "login": "jpoh281",
+      "name": "홍종표",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54665433?v=4",
+      "profile": "https://honor-driven.dev/",
+      "contributions": [
+        "blog",
+        "content",
+        "maintenance"
+    },  
+    {
       "login": "JAICHANGPARK",
       "name": "Dreamwalker",
       "avatar_url": "https://avatars.githubusercontent.com/u/19484515?v=4",
