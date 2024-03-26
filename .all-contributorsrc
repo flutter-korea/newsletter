@@ -18,6 +18,15 @@
         "content",
         "maintenance"
       ]
+    },
+    {
+      "login": "WongueShin",
+      "name": "WongueShin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59313590?v=4",
+      "profile": "https://github.com/WongueShin",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
