@@ -36,7 +36,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://honor-driven.dev/"><img src="https://avatars.githubusercontent.com/u/54665433?v=4?s=100" width="100px;" alt="홍종표"/><br /><sub><b>홍종표</b></sub></a><br /><a href="https://github.com/flutter-korea/newsletter/commits?author=jpoh281" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://honor-driven.dev/"><img src="https://avatars.githubusercontent.com/u/54665433?v=4?s=100" width="100px;" alt="홍종표"/><br /><sub><b>홍종표</b></sub></a><br /><a href="https://github.com/flutter-korea/newsletter/commits?author=jpoh281" title="Documentation">📖</a> <a href="#blog-jpoh281" title="Blogposts">📝</a> <a href="#content-jpoh281" title="Content">🖋</a> <a href="#maintenance-jpoh281" title="Maintenance">🚧</a></td>
     </tr>
   </tbody>
 </table>
