@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "jpoh281",
+      "name": "홍종표",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54665433?v=4",
+      "profile": "https://honor-driven.dev/",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "newsletter",
+  "projectOwner": "flutter-korea"
+}
