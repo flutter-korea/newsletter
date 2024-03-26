@@ -1,6 +1,6 @@
 # Flutter Seoul Newsletter
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ### 📰 플러터 서울 커뮤니티에서는 **플러터와 관련된, 플러터 개발자를 위한 플러터 소식**들을 수집해서 월 1회 정기적으로 뉴스레터를 발행할 계획입니다.
@@ -37,6 +37,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://honor-driven.dev/"><img src="https://avatars.githubusercontent.com/u/54665433?v=4?s=100" width="100px;" alt="홍종표"/><br /><sub><b>홍종표</b></sub></a><br /><a href="https://github.com/flutter-korea/newsletter/commits?author=jpoh281" title="Documentation">📖</a> <a href="#blog-jpoh281" title="Blogposts">📝</a> <a href="#content-jpoh281" title="Content">🖋</a> <a href="#maintenance-jpoh281" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://curogom.dev"><img src="https://avatars.githubusercontent.com/u/78242788?v=4?s=100" width="100px;" alt="유병욱"/><br /><sub><b>유병욱</b></sub></a><br /><a href="https://github.com/flutter-korea/newsletter/issues?q=author%3Acurogom" title="Bug reports">🐛</a></td>
     </tr>
   </tbody>
 </table>
