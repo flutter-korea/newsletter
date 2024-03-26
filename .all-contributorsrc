@@ -18,6 +18,15 @@
         "content",
         "maintenance"
       ]
+    },
+    {
+      "login": "curogom",
+      "name": "유병욱",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78242788?v=4",
+      "profile": "http://curogom.dev",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
