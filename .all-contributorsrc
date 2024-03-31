@@ -1,0 +1,57 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "jpoh281",
+      "name": "홍종표",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54665433?v=4",
+      "profile": "https://honor-driven.dev/",
+      "contributions": [
+        "blog",
+        "content",
+        "maintenance"
+      ]
+    },  
+    {
+      "login": "JAICHANGPARK",
+      "name": "Dreamwalker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19484515?v=4",
+      "profile": "http://qiita.com/Dreamwalker",
+      "contributions": [
+        "blog",
+        "content",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "curogom",
+      "name": "유병욱",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78242788?v=4",
+      "profile": "http://curogom.dev",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "WongueShin",
+      "name": "WongueShin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59313590?v=4",
+      "profile": "https://github.com/WongueShin",
+      "contributions": [
+        "bug"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "newsletter",
+  "projectOwner": "flutter-korea"
+}
