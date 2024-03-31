@@ -71,11 +71,11 @@ Flutter Seoul Newsletter 11호를 확인해주셔서 감사합니다.
 
 # 3. ShoreBird 1.0 출시 예정
 
-2일 전에 Shorebird 0.28.0 버전이 출시되었다고 합니다.
+2일 전에 Shorebird 0.28.0 버전이 출시되었습니다.
 
-해당 릴리즈를 통해 iOS 패치 성능이 크게 향상되었습니다. 그리고 곧 1.0버전이 출시될 예정이라는 Eric Seidel님의 트윗도 있었는데요, 1.0 버전을 출시하기 전 해결해야하는 작은 이슈가 한가지 더 있다고 합니다.
+해당 릴리즈를 통해 iOS 패치 성능이 크게 향상되었다고 합니다. 그리고 곧 1.0 버전 출시된다는 Eric Seidel님의 트윗도 있었는데요, 출시하기 전 해결해야하는 작은 이슈가 한가지 더 있다고 합니다.
 
-Code Push 기능을 사용하게 해주는 ShoreBird가 정식 버전이 출시된다니 엄청 기대되는 것 같습니다.
+Code Push 기능을 사용하게 해주는 ShoreBird의 정식 버전이 출시된다니 엄청 기대되는 것 같습니다.
 
 👉 [ShoreBird 0.28.0 Release](https://twitter.com/shorebirddev/status/1773473093505147016?s=61&t=Y0C59QlgAk824_oQ14rXTg)
 
