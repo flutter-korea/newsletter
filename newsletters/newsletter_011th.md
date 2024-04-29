@@ -42,17 +42,17 @@ Flutter Seoul Newsletter 11호를 확인해주셔서 감사합니다.
 
 1. 이슈 생성
 
-![new_issue.png](../assets/newsletter_11th/1.png)
+![new_issue.png](../assets/newsletter_011th/1.png)
 
 1. 이슈 카테고리 선택
 
-![issue_template.png](../assets/newsletter_11th/2.png)
+![issue_template.png](../assets/newsletter_011th/2.png)
 
 1. 기고 / 이슈 수정 템플릿에 맞춰 작성
     
-    ![뉴스레터_기고.png](../assets/newsletter_11th/3.png)
+    ![뉴스레터_기고.png](../assets/newsletter_011th/3.png)
     
-    ![오타_잘못된_링크_수정.png](../assets/newsletter_11th/4.png)
+    ![오타_잘못된_링크_수정.png](../assets/newsletter_011th/4.png)
     
 
 오타/잘못된 링크 수정 혹은 플러터와 관련된 좋은 소식들을 공유하시려면 편하게 이슈 생성을 통해 편하게 말씀부탁드립니다! 
@@ -67,7 +67,7 @@ Flutter Seoul Newsletter 11호를 확인해주셔서 감사합니다.
 
 더 좋은 뉴스레터를 만들어나가기 위해서 많은 참여 부탁드립니다.
 
-![all_contributors_bot_도입.png](../assets/newsletter_11th/5.png)
+![all_contributors_bot_도입.png](../assets/newsletter_011th/5.png)
 
 # 3. ShoreBird 1.0 출시 예정
 

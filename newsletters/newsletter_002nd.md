@@ -28,7 +28,7 @@ Flutter 최신 소식을 함께 나누고 활동사진을 #FlutterForward 해쉬
 
 [Flutter Seoul on Twitter: "#FlutterForward #FlutterSeoulLive Viewing Party pic.twitter.com/4TGw3WwbTl / Twitter"](https://twitter.com/flutterseoul/status/1618253574932430848?s=61&t=1lvvhkp7LX_b-JT8sVoYCA)
 
-![Untitled](../assets/newsletter_2nd/1.png)
+![Untitled](../assets/newsletter_002nd/1.png)
 
 플러터 서울 공식 트위터: [@FlutterSeoul](https://twitter.com/flutterseoul?s=21&t=1lvvhkp7LX_b-JT8sVoYCA)
 
@@ -74,7 +74,7 @@ edit by 홍종표(HDD), 박제창, Curogom
         [Day 1 - Build a game with Flutter and Flame](https://www.notion.so/Day-1-Build-a-game-with-Flutter-and-Flame-635371f7a14c4012a91022d7b9c2a5b8)
         
 
-![Untitled](../assets/newsletter_2nd/2.png)
+![Untitled](../assets/newsletter_002nd/2.png)
 
 ---
 

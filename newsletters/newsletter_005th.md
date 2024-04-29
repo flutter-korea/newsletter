@@ -55,7 +55,7 @@ GoRouterBuilder 2.1.0
 
 👉 [https://pub.dev/packages/retry](https://pub.dev/packages/retry) 
 
-![1](../assets/newsletter_5th/1.png)
+![1](../assets/newsletter_005th/1.png)
 
 ## 2.4 matcher
 
@@ -71,7 +71,7 @@ matcher 패키지를 사용하면 테스트 코드를 더 명확하고 간결하
 
 Flutter의 http 패키지는 Flutter 애플리케이션에서 HTTP 요청을 보내고 응답을 처리하는 데 사용되는 패키지입니다. http 패키지는 2023년 6월 8일에 1.0 버전으로 출시되었습니다.
 
-![2](../assets/newsletter_5th/2.png)
+![2](../assets/newsletter_005th/2.png)
 
 [http | Dart Package](https://pub.dev/packages/http)
 
@@ -104,7 +104,7 @@ Dart3이 되면서 Patterns과 Records가 추가되었는데요. 새로운 문�
 flutter create -e <프로젝트 명>
 ```
 
-![3](../assets/newsletter_5th/3.png)
+![3](../assets/newsletter_005th/3.png)
 
 ```dart
 // main.dart
@@ -178,7 +178,7 @@ class MyApp extends StatelessWidget {
 }
 ```
 
-![4](../assets/newsletter_5th/4.png)
+![4](../assets/newsletter_005th/4.png)
 
 # 6. ****Goodbye to Tim****
 

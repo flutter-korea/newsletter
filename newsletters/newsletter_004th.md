@@ -17,7 +17,7 @@
 
 [Flutter Korea](https://www.youtube.com/@flutterkorea)
 
-![1.png](../assets/newsletter_4th/1.png)
+![1.png](../assets/newsletter_004th/1.png)
 
 이벤트 결과를 보고 싶으신 분은 👇 링크를 통해 확인하실 수 있습니다.
 
@@ -89,7 +89,7 @@ DartPad의 Master Channel 또한 Flutter 3.10.0 & Dart 3.1.0으로 올라갔습�
 
 행사 당일 발표자료는 [여기](https://speakerdeck.com/itsmedreamwalker/flutter-2023-jeonryaggwa-rodeumaeb-bagjecang-at-modupop)에서 확인해 보실수 있습니다.
 
-![2](../assets/newsletter_4th/2.png)
+![2](../assets/newsletter_004th/2.png)
 
 ## 3.2. **Anatomy of Riverpod**
 
@@ -99,7 +99,7 @@ DartPad의 Master Channel 또한 Flutter 3.10.0 & Dart 3.1.0으로 올라갔습�
 
 발표자료는 [여기](https://speakerdeck.com/itsmedreamwalker/anatomy-of-riverpod-bagjecang-at-modupop)에서 확인해 보실수 있습니다.
 
-![3](../assets/newsletter_4th/3.png)
+![3](../assets/newsletter_004th/3.png)
 
 # 4. Google I/O 2023
 
@@ -144,7 +144,7 @@ DartPad의 Master Channel 또한 Flutter 3.10.0 & Dart 3.1.0으로 올라갔습�
 
 Android Studio 프리뷰 버전 Hedgehog가 공개되었습니다.  
 
-![4](../assets/newsletter_4th/4.png)
+![4](../assets/newsletter_004th/4.png)
 
 # 7. ****shorebird 코드푸시 베타 공개****
 

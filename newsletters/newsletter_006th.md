@@ -71,7 +71,7 @@ Google Cloud, Tensorflow, Android, Flutter, Go등 구글 기술들에 대한 다
 
 - 박제창님 : [**Flutter Google I/O 2023 Recap**](https://speakerdeck.com/itsmedreamwalker/o-extended-2023-seoul)
 
-![gdg_seoul](../assets/newsletter_6th/gdg_seoul.png)
+![gdg_seoul](../assets/newsletter_006th/gdg_seoul.png)
 
 ### 2-2. 7월 30일 (일) **Flutter Developer Networking**
 
@@ -84,7 +84,7 @@ Google Cloud, Tensorflow, Android, Flutter, Go등 구글 기술들에 대한 다
 플러터 개발자들의 네트워킹 행사가 진행되었습니다. 
 일요일이라서 다들 주류를 많이 드시진 못했지만 굉장히 즐거운 시간을 보냈습니다. 😁 
 
-![flutter_seoul_networking](../assets/newsletter_6th/flutter_seoul_networking.png)
+![flutter_seoul_networking](../assets/newsletter_006th/flutter_seoul_networking.png)
 
 ### 2-3. 8월 26일 (토) **Google I/O Extended Incheon**
 
@@ -102,15 +102,15 @@ I/O extended 행사는 구글 I/O에서 발표한 기술과 지식들 나누는 
 
 - 박제창님: [**Flutter 💙 Embedded**](https://speakerdeck.com/itsmedreamwalker/o-extended-2023-incheon-bagjecang)
     
-    ![Untitled](../assets/newsletter_6th/gdg_songdo_jcp.png)
+    ![Untitled](../assets/newsletter_006th/gdg_songdo_jcp.png)
     
 - CuroGom님: [**Widgetbook 페이지에 Widget 스크랩하기**](https://docs.google.com/presentation/d/1FDzzySjfDfukNiCxfxKPrTd3ldfDDsyI3dMFW0T705U/edit#slide=id.g23d304d559e_0_0)
     
-    ![Untitled](../assets/newsletter_6th/gdg_songdo_curogom.png)
+    ![Untitled](../assets/newsletter_006th/gdg_songdo_curogom.png)
     
 - 송승현님: [**Debugging A to Z**](https://docs.google.com/presentation/d/1n0HOKMPeuY-hk35AMPH39VXybEIEXAvVSn4KdvO4sJY/edit?usp=sharing)
     
-    ![Untitled](../assets/newsletter_6th/gdg_songdo_shs.png)
+    ![Untitled](../assets/newsletter_006th/gdg_songdo_shs.png)
     
 
 ### 2-4. 9월 2일 (토) **Google I/O Extended Cloud Busan & Busan**
@@ -125,7 +125,7 @@ I/O extended 행사는 구글 I/O에서 발표한 기술과 지식들 나누는 
 
 - 박제창님 : [**Flutter Google I/O 2023 Recap Busan Edition**](https://speakerdeck.com/itsmedreamwalker/o-extended-2023-cloud-busan-and-busan)
 
-![Untitled](../assets/newsletter_6th/gdg_busan.png)
+![Untitled](../assets/newsletter_006th/gdg_busan.png)
 
 ## 3. 다가오는 플러터 행사
 
@@ -202,7 +202,7 @@ Flutter용 SDK를 지원하는 회사가 점점 많아지는 것 같아 기쁘�
 
 9월 25일 자정까지 사전 질문을 남겨주신 분들께는 추첨을 통해 **LINE DEV 미니니 스티커**를 드립니다!
 
-![line_image.jpeg](../assets/newsletter_6th/line_image.jpeg)
+![line_image.jpeg](../assets/newsletter_006th/line_image.jpeg)
 
 ### ABC Studio의 **Flutter 개발자 3인방**
 
@@ -224,7 +224,7 @@ Flutter용 SDK를 지원하는 회사가 점점 많아지는 것 같아 기쁘�
 
 링크: [https://feedback.line.me/enquete/public/21544-fqeSQ18B](https://feedback.line.me/enquete/public/21544-fqeSQ18B)
 
-![line_qr_code](../assets/newsletter_6th/line_qr_code.png)
+![line_qr_code](../assets/newsletter_006th/line_qr_code.png)
 
 ---
 
