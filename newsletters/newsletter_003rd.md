@@ -37,13 +37,13 @@
 
 잡페어도 같이 열리니 많은 관심 부탁드리겠습니다.
 
-![Flutter_Forward_Extended_Korea_1.png](../assets/newsletter_3rd/1.png)
+![Flutter_Forward_Extended_Korea_1.png](../assets/newsletter_003rd/1.png)
 
 [Flutter Forward Extended Korea | Festa!](https://festa.io/events/3201)
 
 행사 내용
 
-![925ca3dc-f85c-4e1a-b4b7-24c20c764a54.png](../assets/newsletter_3rd/2.png)
+![925ca3dc-f85c-4e1a-b4b7-24c20c764a54.png](../assets/newsletter_003rd/2.png)
 
 # 3. 안드로이드 14 개발자 프리뷰 출시
 
@@ -53,7 +53,7 @@
 
 자세한 내용은 [https://developer.android.com/about/versions/14](https://developer.android.com/about/versions/14) 에서 확인해 보실 수 있습니다. 
 
-![Untitled](../assets/newsletter_3rd/3.png)
+![Untitled](../assets/newsletter_003rd/3.png)
 
 # 4. 팟케스트 1회 홍보 & 2회 예고
 
@@ -99,7 +99,7 @@ Riverpod의 Remi Rousselet 님께서 말씀하셨듯이 Dio의 메인테이너 �
 
 Flutter 팀에서 관리하는 플러그인 리포지토리(flutter/plugins)가  플러터 패키지 리포지토리(flutter/package)로 이관되었습니다. 
 
-![Untitled](../assets/newsletter_3rd/4.png)
+![Untitled](../assets/newsletter_003rd/4.png)
 
 # 6. 플러터 코드푸시
 

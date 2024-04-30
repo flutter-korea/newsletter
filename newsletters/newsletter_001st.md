@@ -4,7 +4,7 @@
 
 # Flutter Seoul Newsletter 발간
 
-![Untitled](../assets/newsletter_1st/1.png)
+![Untitled](../assets/newsletter_001st/1.png)
 
 안녕하세요? 플러터 서울 커뮤니티의 홍종표(HDD)입니다.
 
@@ -40,7 +40,7 @@ editor 홍종표
 
 editor 홍종표, 송승현
 
-![Niklas Ohlroge , Unplash](../assets/newsletter_1st/2.png)
+![Niklas Ohlroge , Unplash](../assets/newsletter_001st/2.png)
 
 Niklas Ohlroge , Unplash
 
@@ -79,7 +79,7 @@ Dart는 2.12 버전에서 null-safety를 지원하기 시작했습니다. 매우
 
 editor 송승현
 
-![Abdallah Shaban, Muhammed Salih Güler, and Ashish Nanda in [Front-End Web & Mobile](https://aws.amazon.com/blogs/mobile/category/mobile-services/)](../assets/newsletter_1st/3.png)
+![Abdallah Shaban, Muhammed Salih Güler, and Ashish Nanda in [Front-End Web & Mobile](https://aws.amazon.com/blogs/mobile/category/mobile-services/)](../assets/newsletter_001st/3.png)
 
 Abdallah Shaban, Muhammed Salih Güler, and Ashish Nanda
 in [Front-End Web & Mobile](https://aws.amazon.com/blogs/mobile/category/mobile-services/)
@@ -105,7 +105,7 @@ Amplify 서비스도 확대해 나가겠다고 합니다. 아래의 링크에서
 
 editor 홍종표
 
-![Untitled](../assets/newsletter_1st/4.png)
+![Untitled](../assets/newsletter_001st/4.png)
 
 Flutter Seoul에서는 자주일어나는 이슈를 수집하고 공유하여 Flutter 개발자들이 버그로 인한 어려움을 조금이나마 줄어보고자 합니다.
 
@@ -144,7 +144,7 @@ class MainActivity : FlutterFragmentActivity()
 
 editor 홍종표
 
-![출처: ****Google Play 정책 바이트 - 2022년 11월 정책 업데이트 (Korean) 썸네일 이미지****](../assets/newsletter_1st/5.jpeg)
+![출처: ****Google Play 정책 바이트 - 2022년 11월 정책 업데이트 (Korean) 썸네일 이미지****](../assets/newsletter_001st/5.jpeg)
 
 출처: ****Google Play 정책 바이트 - 2022년 11월 정책 업데이트 (Korean) 썸네일 이미지****
 
@@ -152,7 +152,7 @@ editor 홍종표
 
 ### 정책타임라인
 
-![출처: ****Google Play 11월 정책 업데이트와 준수사항 안내 4분 13초****](../assets/newsletter_1st/6.png)
+![출처: ****Google Play 11월 정책 업데이트와 준수사항 안내 4분 13초****](../assets/newsletter_001st/6.png)
 
 출처: ****Google Play 11월 정책 업데이트와 준수사항 안내 4분 13초****
 
@@ -208,8 +208,8 @@ editor 박제창, 유병욱
 
 ### 6-2 Flutter Seoul Orgs in Moducon
 
-![IMG_5699.JPG](../assets/newsletter_1st/7.jpg)
-![IMG_5693.JPG](../assets/newsletter_1st/8.jpg)
+![IMG_5699.JPG](../assets/newsletter_001st/7.jpg)
+![IMG_5693.JPG](../assets/newsletter_001st/8.jpg)
 
 ### 추후 세션 내용은 모두콘 유튜브를 통해 공개 예정입니다!!
 
