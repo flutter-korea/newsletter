@@ -22,6 +22,7 @@
 | [10호](https://github.com/flutter-korea/newsletter/blob/main/newsletters/newsletter_010th.md)                            | 2024.02.29 | 홍종표(HDD), 박제창(Dreamwalker), nine | -                       |
 | [11호](https://github.com/flutter-korea/newsletter/blob/main/newsletters/newsletter_011th.md)                            | 2024.03.31 | 홍종표(HDD), 박제창(Dreamwalker)       | Cody Yun                |
 | [12호](https://github.com/flutter-korea/newsletter/blob/main/newsletters/newsletter_012th.md)                            | 2024.04.30 | 홍종표(HDD), 박제창(Dreamwalker)       |                         |
+| [13호](https://github.com/flutter-korea/newsletter/blob/main/newsletters/newsletter_013th.md)                            | 2024.05.31 | 홍종표(HDD), 박제창(Dreamwalker)       |                         |
 
 ## 문의하기
 
