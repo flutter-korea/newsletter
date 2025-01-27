@@ -1,4 +1,4 @@
-# 25/01 뉴스레터
+# Flutter Seoul Newsletter 14호
 
 안녕하세요, 플러터 서울 커뮤니티의 홍종표(HDD), 박제창(Dreamwalker)입니다.
 
