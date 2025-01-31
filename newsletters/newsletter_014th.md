@@ -13,7 +13,6 @@
 - **Flutter In Production 확장 행사 소식**
 - **Flutter 패키지 소식**
 - **Flutter 로 제작된 앱 소개**
-- **Flutter 관련 게시글**
 
 ---
 
@@ -145,14 +144,6 @@ Flutter로 제작된 앱을 Steam에 배포할 땐 [steamwork](https://pub.dev/p
 
 
 실제로 플레이스토어를 통해 앱을 설치해서 사용해보면 광고가 다소 많이 나와 불편하긴 하지만 오픈소스로 공개되어 있으니 실제로 사용해보고 소스 코드를 보는 것이 도움될 수 있어 공유드립니다.
-
-# **4. Flutter 관련 게시글**
-
-## 4.1 **Protecting Flutter Apps from Reverse Engineering and Tampering (Medium 회원 전용 스토리)**
-
-👉 [Protecting Flutter Apps from Reverse Engineering and Tampering](https://medium.com/tech-vibes/protecting-flutter-apps-from-reverse-engineering-and-tampering-bb71330dbb7b)
-
-`--obfuscate --split-debug-info` 명령어를 통해 Flutter의 Dart 코드를 난독화하는 방법 등 리버스 엔지니어링으로 부터 보호하는 법을 알려주는 게시글 입니다.
 
 ---
 
