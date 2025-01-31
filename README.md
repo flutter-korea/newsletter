@@ -8,7 +8,7 @@
 ###
 
 | 발행호                                                                                                                     | 발행일자       | 발간인                              | 기고자                     |
-|:------------------------------------------------------------------------------------------------------------------------|:-----------|:---------------------------------|-------------------------
+|:------------------------------------------------------------------------------------------------------------------------|:-----------|:---------------------------------|-------------------------|
 | [1호](https://github.com/flutter-korea/newsletter/blob/main/newsletters/newsletter_001st.md)                             | 2022.12.19 | 홍종표(HDD), 박제창(Dreamwalker)       | 유병욱(Curogom), 송승현(말코감자) |
 | [2호](https://github.com/flutter-korea/newsletter/blob/main/newsletters/newsletter_002nd.md)                             | 2023.02.02 | 홍종표(HDD), 박제창(Dreamwalker)       | 유병욱(Curogom)            |
 | [3호](https://github.com/flutter-korea/newsletter/blob/main/newsletters/newsletter_003rd.md)                             | 2023.03.16 | 홍종표(HDD), 박제창(Dreamwalker)       | -                       |
@@ -23,6 +23,7 @@
 | [11호](https://github.com/flutter-korea/newsletter/blob/main/newsletters/newsletter_011th.md)                            | 2024.03.31 | 홍종표(HDD), 박제창(Dreamwalker)       | Cody Yun                |
 | [12호](https://github.com/flutter-korea/newsletter/blob/main/newsletters/newsletter_012th.md)                            | 2024.04.30 | 홍종표(HDD), 박제창(Dreamwalker)       |                         |
 | [13호](https://github.com/flutter-korea/newsletter/blob/main/newsletters/newsletter_013th.md)                            | 2024.05.31 | 홍종표(HDD), 박제창(Dreamwalker)       |                         |
+| [14호](https://github.com/flutter-korea/newsletter/blob/main/newsletters/newsletter_014th.md)                            | 2025.01.27 | 홍종표(HDD), 박제창(Dreamwalker)       |                         |
 
 ## 문의하기
 
