@@ -220,7 +220,7 @@ Dart와 Flutter의 덜 알려진 기능들을 중심으로, 개발자들이 이�
 
 [Using Semantics Identifiers for UI Testing](https://codewithandrea.com/tips/semantics-identifiers-ui-testing/)
 
-# Semantics Identifiers는 Flutter에서 UI 테스트를 간편하게 만듭니다. Semantics 위젯에 semanticsLabel을 추가해 위젯을 쉽게 식별하고, find.bySemanticsLabel로 테스트에서 접근성을 높이며 안정적인 테스트를 지원합니다. 접근성 개선과 테스트 효율성을 동시에 챙길 수 있는 유용한 기능입니다.
+Semantics Identifiers는 Flutter에서 UI 테스트를 간편하게 만듭니다. Semantics 위젯에 semanticsLabel을 추가해 위젯을 쉽게 식별하고, find.bySemanticsLabel로 테스트에서 접근성을 높이며 안정적인 테스트를 지원합니다. 접근성 개선과 테스트 효율성을 동시에 챙길 수 있는 유용한 기능입니다.
 
 # ---
 
