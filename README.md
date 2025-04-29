@@ -26,6 +26,7 @@
 | [14호](https://github.com/flutter-korea/newsletter/blob/main/newsletters/newsletter_014th.md)                            | 2025.01.27 | 홍종표(HDD), 박제창(Dreamwalker)       |                         |
 | [15호](https://github.com/flutter-korea/newsletter/blob/main/newsletters/newsletter_015th.md)                            | 2025.02.28 | 홍종표(HDD), 박제창(Dreamwalker)       |                         |
 | [16호](https://github.com/flutter-korea/newsletter/blob/main/newsletters/newsletter_016th.md)                            | 2025.03.28 | 홍종표(HDD), 박제창(Dreamwalker)       |                         |
+| [17호](https://github.com/flutter-korea/newsletter/blob/main/newsletters/newsletter_017th.md)                            | 2025.04.29 | 홍종표(HDD), 박제창(Dreamwalker)       |                         |
 
 ## 문의하기
 
