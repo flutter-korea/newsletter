@@ -90,7 +90,7 @@ dart_mappable 은 기본적인 기능(JSON 변환, == 연산자 재정의, hashC
 🚀 제네릭, 다형성 및 다중 상속 등도 쉽게 처리합니다.   
 🎛️ 직렬화를 사용자 정의하고, 사용자 정의 타입을 추가하거나 다른 패키지와 통합할 수 있어 매우 유연합니다.   
 🔥 어떤 클래스를 사용하든 문제없이 작동하는 것을 약속합니다.   
-(지원되지 않는 경우를 발견하시면 쿠키를 드립니다 🍪. 그리고 GitHub에 이슈를 등록해 주세요.)
+(지원되지 않는 경우를 발견하시면 쿠키를 드립니다 🍪. 그리고 GitHub 에 이슈를 등록해 주세요.)
 
 ## 5. Flutter 관련 게시글
 
@@ -107,7 +107,7 @@ dart_mappable 은 기본적인 기능(JSON 변환, == 연산자 재정의, hashC
 
 ## 6. 그 밖의 소식
 
-지난 2024년 5월 Google I/O에서, 기존에 Project IDX로 알려졌던 Google의 웹 기반 개발 환경이 Firebase Studio라는 새로운 이름으로 공식 리브랜딩되었습니다\!
+지난 2024년 5월 Google I/O에서, 기존에 Project IDX로 알려졌던 Google의 웹 기반 개발 환경이 Firebase Studio라는 새로운 이름으로 공식 리브랜딩되었습니다!
 
 Firebase Studio란 무엇인가요?
 
@@ -124,14 +124,14 @@ Firebase Studio는 Firebase를 사용하여 풀스택 웹 및 모바일 애플�
 
 Firebase를 사용한 앱 개발의 시작부터 배포, 관리까지 전 과정을 더욱 효율적으로 만들 것으로 기대됩니다.
 
-지금 바로 경험해보세요\! [https://firebase.studio/](https://firebase.studio/)  
+지금 바로 경험해보세요! [https://firebase.studio/](https://firebase.studio/)  
 자세한 내용은 블로그 글을 참고해 보세요. [https://cloud.google.com/blog/products/application-development/firebase-studio-lets-you-build-full-stack-ai-apps-with-gemini](https://cloud.google.com/blog/products/application-development/firebase-studio-lets-you-build-full-stack-ai-apps-with-gemini)
 
-# ---
+---
 
 이번 호에서는 Flutter Seoul 이벤트, Flutter 3.29 패치 업데이트, 새로운 패키지 소식, 그리고 유용한 게시글들을 소개해 드렸습니다. 여러분의 개발 여정에 작은 영감과 도움이 되었기를 바랍니다.
 
-여러분의 열정과 참여 덕분에 플러터 커뮤니티가 더욱 빛나고 있습니다. 다음 호에서도 최신 소식과 유익한 정보를 가득 담아 찾아뵙겠습니다. 늘 함께해 주셔서 감사합니다\! 🚀
+여러분의 열정과 참여 덕분에 플러터 커뮤니티가 더욱 빛나고 있습니다. 다음 호에서도 최신 소식과 유익한 정보를 가득 담아 찾아뵙겠습니다. 늘 함께해 주셔서 감사합니다! 🚀
 
 ---
 
