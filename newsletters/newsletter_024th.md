@@ -1,4 +1,4 @@
-# **Flutter Seoul Newsletter 24호 (2026년 2월호) **
+# **Flutter Seoul Newsletter 24호 (2026년 2월호)**
 
 안녕하세요, 플러터 서울 홍종표(HDD), 박제창(Dreamwalker)입니다. 어느덧 추운 겨울이 지나고 옷차림이 가벼워지는 봄이 성큼 다가왔습니다.
 
